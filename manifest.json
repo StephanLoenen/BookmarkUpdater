@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Bookmark Updater",
+  "version": "1.0",
+  "default_locale": "en",
+
+  "description": "Add the option to update the bookmark link to the address of the currently viewed webpage.",
+
+  "background":
+    {
+      "scripts": ["bookmarkupdater.js"]
+    }
+  ,
+
+  "permissions": [
+    "tabs",
+    "menus",
+    "bookmarks",
+    "contextMenus"
+  ]
+}

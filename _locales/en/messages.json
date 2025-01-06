@@ -1,0 +1,6 @@
+{
+  "updateBookmarkCurrentPage": {
+    "message": "Update Bookmark to Current Page",
+    "description": "Updates the selected bookmark to the current page url."
+  }
+}
